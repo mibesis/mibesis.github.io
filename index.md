@@ -1,5 +1,0 @@
-# MIBESIS
-
-IoT
-
-Dooh
